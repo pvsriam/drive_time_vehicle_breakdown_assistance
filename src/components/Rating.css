@@ -1,0 +1,11 @@
+.Rating {
+    display: flex;
+    position: relative;
+    bottom: 10px;
+}
+
+.star {
+  font-size: 2rem;
+  margin: 5px;
+
+}
